@@ -1,4 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+﻿<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 
 <!DOCTYPE html>
@@ -42,7 +42,7 @@
 						                    <div class="form-group">
 						                    	<label for="tabFltStatus" class="control-label">&nbsp;</label>
 						                        <div class="input-group input-group-lg input-group-sa--trsnp">
-						                            <input id="buscarIncidente" type="text" name="dto.buscar" class="form-control filtro" placeholder="Buscar por nome do corretor ou código bp" aria-describedby="basic-addon1">
+						                            <input id="buscarIncidente" type="text" name="dto.buscar" class="form-control filtro" placeholder="Buscar por nome do corretor ou código bp e outra coisa" aria-describedby="basic-addon1">
 						                            <span class="input-group-addon buscarIncidente" style="cursor:pointer"><i class="fa fa-search"></i></span>
 						                        </div>
 						                    </div>
